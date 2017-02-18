@@ -1,9 +1,11 @@
 #include<iostream>
 #include<string>
+#include<time>
 #include<random>
 #include<stdio>
 #include<ctime>
 #include<vector>
+
 using namespace std;
 
 default_random_engine randfuncgen(time(NULL));
